@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+SUBRAM!;Spring+Boot+%3C+AWS+Developer;Building+Backend+Magic+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+SUBRAM!;Spring+Boot+%3C+Cloud+Developer;Building+Backend+Magic+✨" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -141,6 +141,3 @@ A Spring Boot web application for tracking and managing crime cases efficiently.
 
 <h3 align="center">✨ Thanks for visiting! Keep Coding 💻</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SUBRAMROUT/SUBRAMROUT/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
