@@ -23,7 +23,7 @@
 
 #### 💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,spring boot,microservice,maven,hibernate,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,microservice,maven,hibernate,mysql,postman" />
 </p>
 
 #### 🎨 Frontend
@@ -33,7 +33,7 @@
 
 #### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernate,terraform,jenkins,git,github,idea,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,idea,vscode,linux" />
 </p>
 
 ---
