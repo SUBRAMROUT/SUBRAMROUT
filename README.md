@@ -58,7 +58,7 @@
 
 #### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,idea,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,linux" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
 
 #### 🧰 Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=intellij,eclipse,vscode,postman,bash" />
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,postman,bash" />
 </p>
 
 <p align="center">
