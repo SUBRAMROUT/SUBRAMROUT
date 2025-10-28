@@ -23,7 +23,15 @@
 
 #### 💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,maven,hibernate,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,springboot,hibernate,maven,gradle" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RESTful-APIs-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-Secure-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JPA%20%26%20Hibernate-ORM-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Build%20Tools-Maven%20%26%20Gradle-blue?style=for-the-badge"/>
 </p>
 
 #### 🎨 Frontend
