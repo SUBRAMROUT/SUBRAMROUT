@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+[Your+Name]!;Java+%7C+Spring+Boot+%7C+AWS+Developer;Building+Backend+Magic+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+SUBRAM!;Java+%7C+Spring+Boot+%7C+AWS+Developer;Building+Backend+Magic+✨" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,17 +23,17 @@
 
 #### 💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,microservices,maven,hibernate,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,spring boot,micro services,maven,hibernate,mysql,postman" />
 </p>
 
 #### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react js" />
 </p>
 
 #### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernates,terraform,jenkins,git,github,idea,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernate,terraform,jenkins,git,github,idea,vscode,linux" />
 </p>
 
 ---
