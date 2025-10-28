@@ -23,12 +23,17 @@
 
 #### 💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,microservice,maven,hibernate,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,maven,hibernate,mysql,postman" />
 </p>
 
 #### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
 </p>
 
 #### ☁️ Cloud & Tools
@@ -78,10 +83,10 @@ A Spring Boot web application for tracking and managing crime cases efficiently.
   <a href="https://www.linkedin.com/in/subram-rout/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:subramrout1100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://subramrout.github.io/Subram-Rout-Portfolio-/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </p>
