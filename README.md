@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+SUBRAM!;Spring+Boot+%3C+Cloud+Developer;Building+Backend+Magic+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+SUBRAM!;Software+%3C+Cloud+Developer;Building+Backend+Magic+✨" alt="Typing SVG" />
 </h1>
 
 <p align="center">
