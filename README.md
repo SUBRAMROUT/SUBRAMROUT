@@ -23,7 +23,7 @@
 
 #### 💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,springboot,hibernate,maven,gradle" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,maven,gradle" />
 </p>
 
 <p align="center">
@@ -39,14 +39,47 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20Friendly-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend%20Framework-React-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%20Design-Clean%20%26%20Modern-orange?style=for-the-badge"/>
+</p>
+
 #### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Relational%20DBs-MySQL%20%7C%20PostgreSQL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NoSQL%20DB-MongoDB-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Enterprise%20DB-Oracle-red?style=for-the-badge"/>
+</p>
+
 #### ☁️ Cloud & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,idea,vscode,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Platform-AWS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Containerization-Docker-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-lightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-Terraform%20%7C%20Jenkins-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IDEs-IntelliJ%20IDEA%20%7C%20VS%20Code-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20System-Linux-important?style=for-the-badge"/>
+</p>
+
+#### 🧰 Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=intellij,eclipse,vscode,postman,bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDEs-IntelliJ%20IDEA%20%7C%20Eclipse%20%7C%20VS%20Code-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scripting%20%26%20CLI-Bash-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
